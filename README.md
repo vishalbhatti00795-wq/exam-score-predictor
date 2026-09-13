@@ -1,4 +1,5 @@
 # 🎯 EXAMAI — Exam Score Predictor
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-View%20App-success?style=for-the-badge)](https://vishal-exam-score-predictor.streamlit.app/#predict-your-exam-scorewith-ai)
 
 > **AI-powered academic performance prediction using XGBoost Regression**
 
